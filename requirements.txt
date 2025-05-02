@@ -17,7 +17,7 @@ pypiwin32==223
 python-engineio==4.12.0
 python-socketio==5.13.0
 pyttsx3==2.98
-pywin32==308
+pywin32>=305
 simple-websocket==1.1.0
 SQLAlchemy==2.0.40
 typing_extensions==4.13.2
